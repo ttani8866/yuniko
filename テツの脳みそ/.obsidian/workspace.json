@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "661d657c2d6ca2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc49d0ba2c34d80",
+        "type": "tabs",
+        "dimension": 56.39386189258312,
+        "children": [
+          {
+            "id": "b5fbc45cbf4b3e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/2025-12-23_デジタル音痴のAI革命.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-23_デジタル音痴のAI革命"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b89742d7e336099e",
+        "type": "tabs",
+        "dimension": 43.60613810741688,
+        "children": [
+          {
+            "id": "2cd9135e3951c855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01/2025-12-23_デジタル音痴のAI革命.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-23_デジタル音痴のAI革命"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22e9e70090fd2e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77f9728c1cdcf97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fd8cc6a413531a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "eccec08b4efb980d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "2277751e87601d35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b72d98451f30ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "07711c0ba7f93946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ab34a77b2f599f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01/2025-12-23_デジタル音痴のAI革命.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-12-23_デジタル音痴のAI革命へのバックリンク"
+            }
+          },
+          {
+            "id": "32ab63c22fbbc34c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01/2025-12-23_デジタル音痴のAI革命.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-12-23_デジタル音痴のAI革命からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "78167080930155fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "f54ae226356626ce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "d538ac834012d759",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01/2025-12-23_デジタル音痴のAI革命.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-23_デジタル音痴のAI革命のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2cd9135e3951c855",
+  "lastOpenFiles": [
+    "01/2025-12-23_デジタル音痴のAI革命.md",
+    "01/2025-12-23_仕事が終わらない絶望と希望.md",
+    "02/2025-12-23_覚醒叙事詩.md",
+    "03/prompt_for_nanobanana.md",
+    "03",
+    "02/2025-12-23_ユニコの覚醒叙事詩.md",
+    "02",
+    "01/2025-12-23_冬休みの高揚と真の休息.md",
+    "Welcome.md",
+    "01/README.md",
+    "01"
+  ]
+}
