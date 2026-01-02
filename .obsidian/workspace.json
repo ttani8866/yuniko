@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0c3711ad646c59f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b7713aba723032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2853a5b51593362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/2026-01-01_233715/article_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "article_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ac4a973addee048",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e7637ffd641f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d0a800f6ecc2cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "981f7725213adf77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a686850b99ad7fa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb36e32e48804260",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c8b92f4f1c9bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ccc0ec34a8a718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "c63b22af36dbda48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "1f87c0986c789775",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "11521fc1cf5cdcdb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "bab1bff6a5566c0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c2853a5b51593362",
+  "lastOpenFiles": [
+    "scripts/generate_weekly_digest.py",
+    "articles/2026-01-02_081536/article_5.md",
+    "articles/2026-01-02_081536/article_4.md",
+    "articles/2026-01-02_081536/article_3.md",
+    "articles/2026-01-02_081536/article_2.md",
+    "articles/2026-01-02_081536/article_1.md",
+    "articles/2026-01-02_081536",
+    "articles/2026-01-01_233715/article_2.md",
+    "articles/2026-01-01_233715/article_1.md",
+    "テツの脳みそ/Welcome.md",
+    "articles/2026-01-01_233833/article_5.md",
+    "articles/2026-01-01_233833/article_4.md",
+    "articles/2026-01-01_233833/article_3.md",
+    "articles/2026-01-01_233833/article_2.md",
+    "articles/2026-01-01_233833/article_1.md",
+    "articles/2026-01-01_233833",
+    "articles/2026-01-01_233715/article_5.md",
+    "articles/2026-01-01_233715/article_4.md",
+    "articles/2026-01-01_233715/article_3.md",
+    "articles/2026-01-01_233715",
+    "articles",
+    "scripts/fetch_yahoo_news.py",
+    "scripts",
+    "requirements.txt"
+  ]
+}

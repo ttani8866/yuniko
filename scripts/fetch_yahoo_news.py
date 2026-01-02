@@ -168,9 +168,30 @@ def select_top_articles(articles: list[dict], max_count: int = 5) -> list[dict]:
     return scored_articles[:max_count]
 
 
+def generate_executive_insights(category: str) -> str:
+    """経営・マーケティング視点の考察を生成"""
+    insights = []
+    
+    if "広告" in category or "マーケティング" in category:
+        insights.append("- **広告・PR・デジタルマーケティングへの示唆**: 消費者の関心移動を捉えた迅速なクリエイティブ修正が必要。")
+    if "AI" in category:
+        insights.append("- **生成AI・データ活用・業務変革との関係**: 特定業務の自動化だけでなく、ワークフロー自体の再定義を検討すべき段階。")
+    if "M&A" in category or "企業再生" in category:
+        insights.append("- **M&A・企業再生・事業再編との接点**: 資本効率だけでなく、PMIにおける文化統合コストを考慮した判断が求められる。")
+    if "地域" in category or "地方" in category:
+        insights.append("- **地域創生・産業構造・自治体施策への影響**: 公共セクターとの連携による「官民共創モデル」の構築が、参入障壁の高い独自の勝機を生む。")
+    
+    if not insights:
+        insights.append("- **経営判断への影響**: 本件が他部門や既存事業のリスク・機会に波及しないか、定点観測を推奨。")
+        
+    return "\n".join(insights)
+
+
 def save_article_as_markdown(article: dict, output_dir: Path, index: int) -> None:
     """記事をMarkdownファイルとして保存"""
     now = datetime.now(JST)
+    
+    insights = generate_executive_insights(article['category'])
     
     content = f"""# {article['title']}
 
@@ -181,6 +202,10 @@ def save_article_as_markdown(article: dict, output_dir: Path, index: int) -> Non
 ## なぜ重要か
 
 {article['importance']}
+
+## 経営・マーケティング視点の考察
+
+{insights}
 """
     
     filename = output_dir / f"article_{index}.md"
