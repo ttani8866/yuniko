@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>逆転のAI戦略 - Portal</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0a0e1a;
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            animation: fadeIn 1s ease-out;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .loading {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+    <!-- 1秒後に診断アプリへ自動転送 -->
+    <script>
+        setTimeout(function () {
+            window.location.href = "./010_AI診断チャート/index.html";
+        }, 1000);
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>逆転のAI戦略</h1>
+        <div class="loading">AUTHENTICATING...</div>
+    </div>
+</body>
+
+</html>
